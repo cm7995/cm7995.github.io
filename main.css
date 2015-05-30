@@ -3,7 +3,7 @@
 #topBar {
 	width: 97.5%;
 	height: 20%;
-	position: fixed;
+	margin-top: 0em;
 	background-color: orange;
 }
 
