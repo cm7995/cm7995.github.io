@@ -12,4 +12,5 @@
 	width: 35%;
 	background-color: #BFBFBF;
 	/*position: relative;*/ 
+	display: block;
 }
