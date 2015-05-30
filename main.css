@@ -7,6 +7,9 @@
 	background-color: orange;
 }
 
+#boxHolder {
+	margin-top: 30%;
+}
 .textBox {
 	height: 97.5%;
 	width: 35%;
