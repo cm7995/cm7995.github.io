@@ -4,12 +4,13 @@
 	width: 97.5%;
 	height: 20%;
 	position: fixed;
+	background-color: orange;
 }
 
 .textBox {
-	height: 100px;
-	width: 100px;
-	color: #BFBFBF;
+	height: 97.5%;
+	width: 35%;
+	background-color: #BFBFBF;
 	position: auto;
 	padding: 2em;
 }
