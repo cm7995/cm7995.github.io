@@ -1,1 +1,15 @@
 /*This is the base stylesheet for the site.*/
+
+#topBar {
+	width: 97.5%;
+	height: 20%;
+	position: fixed;
+}
+
+.textBox {
+	height: 35%;
+	width: 95%;
+	color: #BFBFBF;
+	position: auto;
+	padding: 2em;
+}
